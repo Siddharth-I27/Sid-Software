@@ -8,8 +8,7 @@
 - Sharmila Developer
 - Siddhartha Customer Service
 - Ajith Business Analyst
-
-- ## Functionalities
+ ## Functionalities
 - Product Support
 - Real time Tracking
 - Market & Sales
