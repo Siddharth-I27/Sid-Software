@@ -2,16 +2,16 @@
 
 ## Health Care providers 
 
+## Scrum Team
 - Teja Product Owner
-   
-  
-- Parshuram Real Time
-  Real time Analysis 
-- 
-- Sharmila Supply Chain Mgmt
-  
+- Parshuram Scrum Master
+- Sharmila Developer
 - Siddhartha Customer Service
-  Providing Online portal for Troubleshooting
-  
-- Ajith Marketing Sales
-- 
+- Ajith Business Analyst
+
+- ## Functionalities
+- Product Support
+- Real time Tracking
+- Market & Sales
+- Supply Chain Mgmt
+- Recommendations
